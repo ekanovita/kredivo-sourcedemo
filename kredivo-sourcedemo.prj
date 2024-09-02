@@ -6,11 +6,12 @@
    <UUID>127c11bb-d6d9-4c98-a661-649d03cd9fce</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.7.1</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.7.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/ekapangaribuan/git/kredivo-sourcedemo/kredivo-sourcedemo.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
